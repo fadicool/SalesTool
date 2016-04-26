@@ -13,6 +13,9 @@ public class Main {
 		System.out.println("This App shows Sales Data");
 		
 		System.out.println("Test-1");
+		
+		System.out.println("Testing if changes made after creating a new Branch can be seen in the new Branch.");
+		
 	}
 
 }
